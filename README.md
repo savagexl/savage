@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/881992907203178547/884964124449177650/tumblr_841f18a37f696f6fb081133978c84757_da1bdb06_400.gif" align="right" width="400" height="250">
 
-### Hi İm There Adoncia
+### Hi İm There Adoncia <img src=https://camo.githubusercontent.com/2228963a861448198cb6ee457726a1b418f59d99c6d677bf45bdb4afafebea78/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51374c486d6f467756503659633173775a732f67697068792e676966"
 
 <p align="left">Selam, Ben Adoncia Discord Botları Yapıyorum Sende Ücretli Şekilde Discord Botu Yaptırabilirsiniz
 
