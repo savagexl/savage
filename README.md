@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/3oz8xSFr4Uw7d3K0JW/source.gif" align="right" width="400" height="250">
 <p align="left">Selam, Ben Adoncia
 <h3>Kişisel Hesaplarım:</h3>
 <p align="left">
