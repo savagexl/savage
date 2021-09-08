@@ -19,7 +19,7 @@
 <a href="https://github.com/adonciai" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adonciai" alt="adonciai" /> </p>
-![profile count](https://komarev.com/ghpvc/?username=adonciai&color=red)
+<p align="center"><img src="(https://komarev.com/ghpvc/?username=adonciai&color=red)alt="adonciai" /> </p>
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/719458133617147986)](https://discord.com/users/719458133617147986)
