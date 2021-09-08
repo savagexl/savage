@@ -1,5 +1,5 @@
 <img src="https://cdn.discordapp.com/attachments/881992907203178547/884964124449177650/tumblr_841f18a37f696f6fb081133978c84757_da1bdb06_400.gif" align="right" width="400" height="250">
-<p align="left">Selam, Ben Adoncia
+<p align="left">Selam, Ben Adoncia Discord Botları Yapıyorum Sende Ücretli Şekilde Discord Botu Yaptırabilirsiniz
 
 
 ### Software Languages
