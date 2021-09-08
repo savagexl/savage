@@ -1,4 +1,4 @@
-<p align="left">Selam, Ben <a href="https://github.com/lordaisy">The Lord!</a> 🚀</p>
+<p align="left">Selam, Ben Adoncia
 <h3>Kişisel Hesaplarım:</h3>
 <p align="left">
 <a href="https://discord.com/users/853003938491007016" target"blank_"><img src="https://img.shields.io/badge/-The%20Lord%C2%BF%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
