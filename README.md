@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhtcequeen.tumblr.com%2Fpost%2F653086002912673792&psig=AOvVaw1rFt5Q2y14ka4J_YRRTTQM&ust=1631148572191000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPD_5IGU7vICFQAAAAAdAAAAABAI" align="right" width="400" height="250">
+<img src="https://cdn.discordapp.com/attachments/881992907203178547/884964124449177650/tumblr_841f18a37f696f6fb081133978c84757_da1bdb06_400.gif" align="right" width="400" height="250">
 <p align="left">Selam, Ben Adoncia
 <h3>Kişisel Hesaplarım:</h3>
 <p align="left">
