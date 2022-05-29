@@ -1,5 +1,5 @@
-<img src="https://cdn.discordapp.com/attachments/852833146457292812/980487280789696574/buson.jpg">
+<img src="https://cdn.discordapp.com/attachments/940608251391795273/980249232869036052/FT34FiFX0AAivod.jpg">
 
-### Hi Im There eWre <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
+### Hi Im There savage <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
 
-<p align="left">Selam, Ben eWre Bir Sikim Yapmıyorum.
+<p align="left">Selam, Ben savage Bir Sikim Yapmıyorum.
